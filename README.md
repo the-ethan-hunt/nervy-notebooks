@@ -22,6 +22,6 @@ Your contributions are always welcome! Please have a look at the [contribution g
 
 ### License
 
-[(Back to top)}(#list-of-contents)
+[(Back to top)](#list-of-contents)
 
 The MIT License 2017 - [Dhruv Apte](http://github.com/the-ethan-hunt/). Please have a look at the [LICENSE.md](LICENSE.md) for more details.
