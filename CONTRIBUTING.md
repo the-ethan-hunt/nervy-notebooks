@@ -8,3 +8,13 @@ Before sending a Pull Request, please make sure that you've been assigned the ta
 - If no relevant issue exists, open a new issue and get it assigned to yourself on GitHub.
 
 Please proceed with a Pull Request only after you're assigned. It'd be sad if your Pull Request (and your hardwork) isn't accepted just because it isn't ideologically compatible.
+
+## Pull Request Guidelines
+
+Your pull request should:
+
+- Be a IPython notebook. No PRs with `.py` would be merged. The notebbok should be named after the algorithm. For example, a notebook for LSTM should be named `LSTM.ipynb`.
+- Contain name of the algorithm you implement in its title
+- Be code copied from some other repo or StackOverflow
+
+If you are submitting a notebook already submitted but using a different framework, mention it in your PR title and your notebook's name
