@@ -2,6 +2,9 @@
 
 A cluster of notebooks handy for deep learning using IPython notebooks.
 
+
+NOTE: Nervy-notebooks has been selected as a project for [NJACK Winter of Code 2017](http://nwoc.njack-iitp.org/). For contributing and being recognised for your valuable contribution, please send your `IPython notebbok` PR to [this fork](https://github.com/NJACKWinterOfCode/nervy-notebooks) 
+
 ### List of contents
 
 - [Inspiration](#inspiration)
