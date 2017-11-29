@@ -5,7 +5,7 @@ A cluster of notebooks handy for deep learning using IPython notebooks.
 ## List of contents
 
 - [Inspiration](#inspiration)
-- [IPython Installation](#ipython installation)
+- [IPython Installation](#installation)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -26,7 +26,7 @@ While learning deep learning, I never could just skim off one source. There were
 ### Local Setup
 Get IPython with pip using following command:
 ```
-pip install ipython
+$ pip install ipython
 ```
  
 ## Contributing
@@ -35,12 +35,13 @@ pip install ipython
 
 Your contributions are always welcome! Please have a look at the [contribution guidelines](CONTRIBUTING.md) first. 
 
+Fork the repository by clicking on the Fork button in the top-right corner of the page.
+
 Clone the repository using following command:
 ```
-git clone https://github.com/NJACKWinterOfCode/nervy-notebooks.git
+git clone https://github.com/YOUR-USERNAME/nervy-notebooks.git
 ```
-
-Fork the repository by clicking on the Fork button in the top-right corner of the page.
+use your github username in place of YOUR-USERNAME.
 
 ## License
 
