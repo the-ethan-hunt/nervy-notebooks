@@ -5,7 +5,7 @@ A cluster of notebooks handy for deep learning using IPython notebooks.
 ## List of contents
 
 - [Inspiration](#inspiration)
-- [IPython Installation](#ipython installtion)
+- [IPython Installation](#ipython installation)
 - [Contributing](#contributing)
 - [License](#license)
 
