@@ -42,6 +42,9 @@ $ pip install ipython
 * [NLTK](http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/NLTK.ipynb)
 * [DEAP](http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/DEAP.ipynb)
 * [Gensim](http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/Gensim.ipynb)
+* [TensorFlow](http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/tree/master/notebooks/tensorflow)
+* [Keras](https://keras.io/backend/)
+* [Torch](http://torch.ch/docs/getting-started.html#_)
 
  
 ## Contributing
